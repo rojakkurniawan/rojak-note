@@ -1,1 +1,2 @@
 Testing ini conflict
+test-feature3
